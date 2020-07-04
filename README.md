@@ -1,4 +1,6 @@
-# rss_backend
+# **Main Project repository is [here](https://github.com/98lenvi/my_rss_client)**
+
+# rss_client_backend
 
 This project contains source code and supporting files for a serverless application that you can deploy with the SAM CLI. It includes the following files and folders.
 
